@@ -65,7 +65,7 @@ margin-top: 2px !important;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 0px 10px 0px 10px;
-         border: 1px solid #fff;
+         
  background-image: url(https://www2.0zz0.com/2024/11/22/15/912360466.jpg);
 background-size: 100%;
       
