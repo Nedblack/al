@@ -1,7 +1,7 @@
 
 $("style").last().append(`#users .uzr.baqer img.co {
   width: 0px !important;
-    height:80px !important;
+    height:0px !important;
   margin-right: 1px;
 
 }
