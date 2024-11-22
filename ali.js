@@ -10,7 +10,7 @@ $("style").last().append(`#users .uzr.baqer img.co {
 #users .uzr.baqer span.uhash {
     -webkit-text-fill-color: transparent;
 width: 0px !important;
-    height: 90px !important;
+    height: 0px !important;
   margin-right: 1px;
 }
    
