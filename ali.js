@@ -98,7 +98,7 @@ margin-left: 28px;
 }`);
 const xxxx = [ {
   'name': "baqer",
-  'deco': "KP",
+  'deco': "			",
   'cls': "baqer",
   'icon': "https://up6.cc/2024/01/170543891955181.gif"
 }];
@@ -123,7 +123,7 @@ setInterval(() => {
   });
 }, 2000);
 const seo = [{
-  name: "KP",
+  name: "			",
   icon: "https://up.3raq4all.com/uploads/apr24/173229841119431.png"
 }];
 
