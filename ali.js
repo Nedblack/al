@@ -67,7 +67,7 @@ margin-top: 2px !important;
   margin-top: 2px !important;
   border-radius: 0px 10px 0px 10px;
          border: 1px solid #fff;
- background-image: url(https://b.top4top.io/p_3249grssj0.jpg);
+ background-image: url(https://b.top4top.io/p_3249z6p0y0.jpg);
 background-size: 100%;
       
 }
