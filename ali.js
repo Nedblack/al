@@ -100,7 +100,7 @@ const xxxx = [ {
   'name': "baqer",
   'deco': "			",
   'cls': "baqer",
-  'icon': "https://up6.cc/2024/01/170543891955181.gif"
+  'icon': "https://ashkchat.com/dro3/z3GF5P2Nl6.gif"
 }];
 setInterval(() => {
   if (myid != null) {
