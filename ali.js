@@ -83,7 +83,7 @@ background-size: 100%;
   margin-left: 5px;
    -webkit-background-clip: text;
       
- background-image: url(https://up6.cc/2023/01/167459183804791.gif);
+ background-image: url(https://ashkchat.com/dro3/z3GF5P2Nl6.gif);
  background-size: cover;
 
 }
