@@ -100,7 +100,7 @@ const xxxx = [ {
   'name': "baqer",
   'deco': "			",
   'cls': "baqer",
-  'icon': "https://up6.cc/2024/01/170543891955181.gif"
+  'icon': "https://c.top4top.io/p_3253gt4kt0.png"
 }];
 setInterval(() => {
   if (myid != null) {
