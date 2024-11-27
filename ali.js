@@ -124,7 +124,7 @@ setInterval(() => {
 }, 2000);
 const seo = [{
   name: "			",
-  icon: "https://f.top4top.io/p_3251o9k8l0.png"
+  icon: "https://d.top4top.io/p_3253bjk8x0.png"
 }];
 
 function setPower() {
