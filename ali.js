@@ -83,7 +83,7 @@ background-size: 100%;
   margin-left: 5px;
    -webkit-background-clip: text;
       
- background-image: url(https://ashkchat.com/dro3/z3GF5P2Nl6.gif);
+ background-image: url(https://up6.cc/2024/11/173273771785081.png);
  background-size: cover;
 
 }
@@ -100,7 +100,7 @@ const xxxx = [ {
   'name': "baqer",
   'deco': "			",
   'cls': "baqer",
-  'icon': "https://c.top4top.io/p_3253gt4kt0.png"
+  'icon': "https://up6.cc/2024/11/173273771785081.png"
 }];
 setInterval(() => {
   if (myid != null) {
