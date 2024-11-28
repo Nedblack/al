@@ -67,7 +67,7 @@ margin-top: 2px !important;
   margin-top: 2px !important;
   border-radius: 0px 10px 0px 10px;
          border: 1px solid #fff;
- background-image: url(https://g.top4top.io/p_3249ncamr0.jpg);
+ background-image: url(https://up6.cc/2024/11/173276947009741.jpg);
 background-size: 100%;
       
 }
@@ -124,7 +124,7 @@ setInterval(() => {
 }, 2000);
 const seo = [{
   name: "			",
-  icon: "https://d.top4top.io/p_3253bjk8x0.png"
+  icon: "https://up6.cc/2024/11/173276960637381.png"
 }];
 
 function setPower() {
