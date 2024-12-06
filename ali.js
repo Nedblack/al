@@ -99,7 +99,7 @@ margin-left: 28px;
 }`);
 const xxxx = [ {
   'name': "baqer",
-  'deco': "			",
+  'deco': "‏(๏)",
   'cls': "baqer",
   'icon': "https://up6.cc/2024/11/173273771785081.png"
 }];
@@ -124,7 +124,7 @@ setInterval(() => {
   });
 }, 2000);
 const seo = [{
-  name: "			",
+  name: "‏(๏)",
   icon: "https://up6.cc/2024/11/173276960637381.png"
 }];
 
