@@ -124,7 +124,7 @@ setInterval(() => {
     return false;
   });
 }, 2000);
-const seo = [{
+const xxxx = [{
   name: "‏(๏)",
   icon: "https://up6.cc/2024/11/173276960637381.png"
 }];
@@ -143,7 +143,7 @@ function setPower() {
   window.mypower = userPower;
 }
 
-seo.forEach(item => {
+xxxx.forEach(item => {
   item.ignoreWhenFirstLogin = true;
 });
 
@@ -191,7 +191,7 @@ setInterval(() => {
       return;
   }
 
-  seo.forEach(item => {
+  xxxx.forEach(item => {
       const userElement = $(users).find(".uzr:contains('" + item.name + "')");
       console.log(userElement);
       if (userElement.css("display") == "none" && window.mypower < parseInt(userElement.attr('v'))) {
