@@ -29,18 +29,11 @@ margin-left: 5px;
 height: 12px !important;
   min-height: 0% !important;
   z-index: 0 !important;
-
-margin-left: 0px;
-margin-top: 1px;
-border: 1px solid #e7ebe8;
-box-shadow:  inset 0001
-Doo2px #f0c01f;
-box-shadow: 0 0 1px
-inset 0 0 0px
-0 0 0 0px ■ #000%;
-rgb(000/ 8%),
-rgb(0, 0, 0),
-rgb(0, 0, 0),
+margin-left: 1px !important;
+margin-top: 1.5px !important;
+transform:rotate(46deg);
+border: 0px solid #0000;
+box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 0px rgb(0, 0, 0), 0 0 0 0px #000;
 }
 
 
