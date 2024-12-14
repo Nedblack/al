@@ -24,15 +24,16 @@ margin-left: 5px;
   
 
 #users .uzr.baqer img.ustat {
-width: 12px !important;
-height: 12px !important;
-min-height: 0%!important;
-margin-right: 0;
-z-index: 999999;
-border-radius: 5px 0px 0px 0px;
-margin-left: 0px;
-margin-top: 1px;
-border: 1px solid  #e7ebe8;
+  width: 55px !important;
+   border-radius: 100px  !important;
+height: 55px !important;
+  min-height: 0% !important;
+  z-index: 0 !important;
+margin-left: 1px !important;
+margin-top: 1.5px !important;
+transform:rotate(46deg);
+border: 0px solid #0000;
+box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 0px rgb(0, 0, 0), 0 0 0 0px #000;
 }
 
 
