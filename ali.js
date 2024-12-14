@@ -13,7 +13,7 @@ $("style").last().append(`#users .uzr.baqer img.co {
     -webkit-text-fill-color: transparent;
 width: 0px !important;
     height: 0px !important;
-  margin-right: 10px;
+  margin-right: 1px;
 }
    
 
