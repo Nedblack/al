@@ -24,9 +24,9 @@ margin-left: 5px;
   
 
 #users .uzr.baqer img.ustat {
-  width: 12px !important;
+  width: 55px !important;
    border-radius: 100px  !important;
-height: 12px !important;
+height: 55px !important;
   min-height: 0% !important;
   z-index: 0 !important;
 margin-left: 1px !important;
