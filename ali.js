@@ -106,9 +106,9 @@ background-size: 100%;
 #users .uzr.baqer .itarr_baqer {
    width: 80px;
 height: 80px;
-margin-top: -45px;
+margin-top: -39px;
 cursor: pointer;
-margin-left: -45px;
+margin-left: -40px;
 }`);
 const xxxx = [ {
   'name': "baqer",
