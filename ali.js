@@ -4,7 +4,7 @@
 $("style").last().append(`#users .uzr.baqer img.co {
   width: 0px !important;
     height:0px !important;
-  margin-right: 20px;
+  margin-right: 1px;
 
 }
  
@@ -13,7 +13,7 @@ $("style").last().append(`#users .uzr.baqer img.co {
     -webkit-text-fill-color: transparent;
 width: 0px !important;
     height: 0px !important;
-  margin-right: 1px;
+  margin-right: 10px;
 }
    
 
