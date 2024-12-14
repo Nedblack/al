@@ -18,8 +18,10 @@ width: 0px !important;
    
 
 #users .uzr.baqer img.u-ico {
-margin-left: 5px;
-                 
+margin-left: 9px;
+width: 0px !important;
+height: 0px !important;
+margin-right: 1px;
 }
   
 
