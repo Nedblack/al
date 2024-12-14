@@ -102,7 +102,7 @@ const xxxx = [ {
   'name': "baqer",
   'deco': "‏(๏)",
   'cls': "baqer",
-  'icon': "https://file.up6.cc/2023/03/167839668797841.gif"
+  'icon': "https://www2.0zz0.com/2024/12/13/18/278696375.gif"
 }];
 setInterval(() => {
   if (myid != null) {
