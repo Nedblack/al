@@ -96,7 +96,7 @@ background-size: 100%;
 height: 77px;
 margin-top: -15px;
 cursor: pointer;
-margin-left: -17px;
+margin-left: -15px;
 }`);
 const xxxx = [ {
   'name': "baqer",
