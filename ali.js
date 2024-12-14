@@ -18,7 +18,7 @@ width: 0px !important;
    
 
 #users .uzr.baqer img.u-ico {
-margin-left: 0px;
+margin-left: 5px;
 
 }
   
@@ -70,7 +70,7 @@ padding: 26px !important;
  -webkit-background-clip: text;
   -webkit-text-fill-color: #0000;
    background-image: linear-gradient(-225deg,#696969 0%,#434343 29%,#f00 67%,#696969 100%);
-   padding: 0px !important;
+   padding: 10px !important;
   font-size: 89% !important;
 }
        
