@@ -24,8 +24,8 @@ margin-left: 5px;
   
 
 #users .uzr.baqer img.ustat {
-width: 70px !important;
-height: 70px !important;
+width: 12px !important;
+height: 12px !important;
 min-height: 0%!important;
 margin-right: 0;
 z-index: 999999;
