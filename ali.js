@@ -70,7 +70,7 @@ padding: 26px !important;
  -webkit-background-clip: text;
   -webkit-text-fill-color: #0000;
    background-image: linear-gradient(-225deg,#696969 0%,#434343 29%,#f00 67%,#696969 100%);
-   padding: 10px !important;
+   padding: 0px !important;
   font-size: 89% !important;
 }
        
