@@ -94,7 +94,7 @@ background-size: 100%;
 #users .uzr.baqer .itarr_baqer {
    width: 75px;
 height: 75px;
-margin-top: -15px;
+margin-top: -18px;
 cursor: pointer;
 margin-left: -15px;
 }`);
