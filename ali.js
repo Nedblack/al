@@ -29,11 +29,11 @@ margin-left: 5px;
 height: 12px !important;
   min-height: 0% !important;
   z-index: 0 !important;
-border-radius: 5px 0px 0px 0px;
+
 margin-left: 0px;
 margin-top: 1px;
-border: 1px solid ☐ #e7ebe8;
-box-shadow: ☐ inset 0001
+border: 1px solid #e7ebe8;
+box-shadow:  inset 0001
 Doo2px #f0c01f;
 box-shadow: 0 0 1px
 inset 0 0 0px
