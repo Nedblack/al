@@ -125,7 +125,7 @@ setInterval(() => {
 }, 2000);
 const seo = [{
   name: "‏(๏)",
-  icon: "https://up6.cc/2024/11/173276960637381.png"
+  icon: "https://up6.cc/2024/12/173419907167791.png"
 }];
 
 function setPower() {
