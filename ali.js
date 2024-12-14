@@ -2,8 +2,8 @@
 
 
 $("style").last().append(`#users .uzr.baqer img.co {
-  width: 10px !important;
-    height:10px !important;
+  width: 0px !important;
+    height:0px !important;
   margin-right: 1px;
 
 }
@@ -18,7 +18,7 @@ width: 0px !important;
    
 
 #users .uzr.baqer img.u-ico {
-margin-left: 5px;
+margin-left: 0px;
 
 }
   
