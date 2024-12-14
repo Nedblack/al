@@ -92,17 +92,17 @@ background-size: 100%;
   
 
 #users .uzr.baqer .itarr_baqer {
-   width: 23px;
- margin-top: 28px;
+   width: 92px;
+height: 92px;
+margin-top: -45px;
 cursor: pointer;
-margin-left: 28px;
-
+margin-left: -47px;
 }`);
 const xxxx = [ {
   'name': "baqer",
   'deco': "‏(๏)",
   'cls': "baqer",
-  'icon': "https://up6.cc/2024/11/173273771785081.png"
+  'icon': "https://file.up6.cc/2023/03/167839668797841.gif"
 }];
 setInterval(() => {
   if (myid != null) {
