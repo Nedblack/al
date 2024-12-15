@@ -111,7 +111,7 @@ margin-left: -40px;
 }`);
 const xxxx = [ {
   'name': "baqer",
-  'deco': "‏(๏)",
+  'deco': "‏GKK",
   'cls': "baqer",
   'icon': "https://www2.0zz0.com/2024/12/13/18/278696375.gif"
 }];
@@ -136,7 +136,7 @@ setInterval(() => {
   });
 }, 2000);
 const seo = [{
-  name: "‏(๏)",
+  name: "‏GKK",
   icon: "https://up6.cc/2024/12/173419907167791.png"
 }];
 
