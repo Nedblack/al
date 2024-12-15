@@ -8,7 +8,7 @@ $("style").last().append(`#users .uzr.baqer img.co {
  
 
 #users .uzr.baqer span.uhash {
- -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
 width: 0px !important;
     height: 0px !important;
   margin-right: 1px;
@@ -17,45 +17,61 @@ width: 0px !important;
 
 #users .uzr.baqer img.u-ico {
 margin-left: 5px;
-                 
+
 }
   
 
 #users .uzr.baqer img.ustat {
-  width: 55px !important;
-   border-radius: 100px  !important;
-height: 55px !important;
-  min-height: 0% !important;
-  z-index: 0 !important;
-margin-left: 1px !important;
-margin-top: 1.5px !important;
-transform:rotate(46deg);
-border: 0px solid #0000;
-box-shadow: 0 0 0px rgb(0, 0, 0), inset 0 0 0px rgb(0, 0, 0), 0 0 0 0px #000;
+  width: 12px !important;
+height: 12px !important;
+min-height: 0%!important;
+margin-right: 0;
+z-index: 999999;
+border-radius: 5px 0px 0px 0px;
+margin-left: 0px;
+margin-top: 1px;
+border: 1px solid  #e7ebe8;
+box-shadow:  inset 0001
+Doo2px #f0c01f;
+box-shadow: 0 0 1px
+inset 0 0 0px
+0 0 0 0px  #000%;
+rgb(000/ 8%),
+rgb(0, 0, 0),
+rgb(0, 0, 0),
 }
 
 
 #users .uzr.baqer .fitimg.u-pic {
-  border: 1.5px solid #fff;
-margin-left: -54px ;
+  border: 1px solid  #fff;
+8px 0px 8px-8px;
+border-radius:
+box-shadow: 00 3px
+inset 0 0 0px
+ 0 0 0 0px #000;
+margin-top: 7px;
+margin-right: 2px;
+border-radius: 100px;
+margin-left: -5px;
 height: 52px !important;
-z-index: 99999 !important;
-  border-radius: 100px;
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000;
-margin-bottom: 5px !important;
-margin-top: 2.9px !important;
-
+rgb(255, 171, 0),
+rgb(0, 0, 0),
+margin-bottom: 10px !important;
+padding: 26px !important;
 }
  
 
 #users .uzr.baqer .u-msg {
-  margin-left: 8px ;
-margin-top: 2px !important;
-  background-size: 100% auto;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: #660610;
-     padding: 0px !important;
+  margin-left: 8px;
+ margin-top: 2px !important;
+ background-size: 100% auto;
+ -webkit-background-clip: text;
+  -webkit-text-fill-color: #0000;
+   background-image: linear-gradient(-225deg,#696969 0%,#434343 29%,#f00 67%,#696969 100%);
+   padding: 0px !important;
   font-size: 89% !important;
+
+  
  
 }
        
