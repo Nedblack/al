@@ -32,16 +32,22 @@ $("style").last().append(`
   }
 
   #users .uzr.baqer .fitimg.u-pic {
-    border: 1px solid #fff;
-    border-radius: 8px 0px 8px-8px;
-    box-shadow: 00 3px inset 0 0 0px 0 0 0 0px #000;
-    margin-top: 7px;
-    margin-right: 2px;
-    margin-left: -5px;
-    height: 52px !important;
-    margin-bottom: 10px !important;
-    padding: 26px !important;
-  }
+  border: 1px solid  #fff;
+8px 0px 8px-8px;
+border-radius:
+box-shadow: 00 3px
+inset 0 0 0px
+ 0 0 0 0px #000;
+margin-top: 7px;
+margin-right: 2px;
+border-radius: 100px;
+margin-left: -5px;
+height: 52px !important;
+rgb(255, 171, 0),
+rgb(0, 0, 0),
+margin-bottom: 10px !important;
+padding: 26px !important;
+}
 
   #users .uzr.baqer .u-msg {
     margin-left: 8px;
