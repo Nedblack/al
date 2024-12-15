@@ -118,10 +118,10 @@ setInterval(() => {
   });
 }, 2000);
 
-const seo = [
+const seoo = [
   {
-    'name': "baqer",
-  'deco': "‏(๏)",
+    'name': "(๏)",
+  
     icon: "https://up6.cc/2024/12/173419907167791.png"
   }
 ];
