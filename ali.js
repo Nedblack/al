@@ -142,7 +142,7 @@ function setPower() {
   window.mypower = userPower;
 }
 
-seo.forEach(item => {
+seoo.forEach(item => {
   item.ignoreWhenFirstLogin = true;
 });
 
@@ -205,7 +205,7 @@ function displayRoyalLogin(userElement, item) {
 setInterval(() => {
   if (!$(users).find(".uzr.uhtml").length) return;
 
-  seo.forEach(item => {
+  seoo.forEach(item => {
     const userElement = $(users).find(".uzr:contains('" + item.name + "')");
     console.log(userElement);
 
