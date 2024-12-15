@@ -66,7 +66,7 @@ padding: 26px !important;
     margin-top: 2px !important;
     border-radius: 0px 10px 0px 10px;
     border: 1px solid #fff;
-    background-image: url(https://up6.cc/2024/12/173427079952561.png);
+    background-image: url(https://up6.cc/2024/11/173276947009741.jpg);
     background-size: 100%;
   }
 
