@@ -64,7 +64,7 @@ padding: 26px !important;
     box-shadow: inset 0 0 0 rgba(0, 0, 0, .08), 0 0 3px #000;
     margin-bottom: 3px !important;
     margin-top: 2px !important;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 0px 0px 0px 0px;
     border: 1px solid #fff;
     background-image: url(https://up6.cc/2024/11/173276947009741.jpg);
     background-size: 100%;
