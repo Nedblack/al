@@ -37,7 +37,7 @@ box-shadow:  inset 0001
 Doo2px #f0c01f;
 box-shadow: 0 0 1px
 inset 0 0 0px
-0 0 0 0px ■ #000%;
+0 0 0 0px  #000%;
 rgb(000/ 8%),
 rgb(0, 0, 0),
 rgb(0, 0, 0),
