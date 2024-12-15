@@ -32,21 +32,15 @@ $("style").last().append(`
   }
 
   #users .uzr.baqer .fitimg.u-pic {
-  border: 1px solid  #fff;
-8px 0px 8px-8px;
-border-radius:
-box-shadow: 00 3px
-inset 0 0 0px
- 0 0 0 0px #000;
-margin-top: 7px;
-margin-right: 2px;
-border-radius: 100px;
-margin-left: -5px;
-height: 52px !important;
-rgb(255, 171, 0),
-rgb(0, 0, 0),
-margin-bottom: 10px !important;
-padding: 26px !important;
+    border: 1px solid #fff;
+    border-radius: 8px 0px 8px-8px;
+    box-shadow: 00 3px inset 0 0 0px 0 0 0 0px #000;
+    margin-top: 7px;
+    margin-right: 2px;
+    margin-left: -5px;
+    height: 52px !important;
+    margin-bottom: 10px !important;
+    padding: 26px !important;
   }
 
   #users .uzr.baqer .u-msg {
@@ -147,7 +141,12 @@ function displayRoyalLogin(userElement, item) {
   }
   item.toggled = true;
   const userPic = userElement.find(".u-pic").css("background-image").replace("url(\"", '').replace("\")", '');
-  const imgContainer = $(body).append("<div><img class='ro_te3b_img' style='position: absolute; top: 3rem; left: -300px; border-radius: 50%' width='78' height='78' src='" + userPic + "' /><img class='ro_te3b_img' style='position: absolute; top: 1rem; left: -300px; border-radius: 0%' width='329' height='173' src='" + item.icon + "' /></div>");
+  const imgContainer = $(body).append(`
+    <div>
+      <img class='ro_te3b_img' style='position: absolute; top: 3rem; left: -300px; border-radius: 50%' width='78' height='78' src='${userPic}' />
+      <img class='ro_te3b_img' style='position: absolute; top: 1rem; left: -300px; border-radius: 0%' width='329' height='173' src='${item.icon}' />
+    </div>
+  `);
 
   imgContainer.find("img:nth-child(1)").animate({
     'left': "40px"
